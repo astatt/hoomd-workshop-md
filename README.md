@@ -8,11 +8,12 @@ platform on:
 
 * Google Colab (requires a Google account):
   * To open a new notebook, choose a link below the notebook in [Google Colab](https://colab.research.google.com/).
-    * [Introducing HOOMD-blue](https://colab.research.google.com/github/astatt/hoomd-workshop-md/blob/trunk/00-Introducing-HOOMD-blue.ipynb)
     * [Introducing molecular dynamics](https://colab.research.google.com/github/astatt/hoomd-workshop-md/blob/trunk/01-Molecular-dynamics-with-HOOMD-blue.ipynb)
     * Additional optional topics:
       * [Introducing polymers/bonds](https://colab.research.google.com/github/astatt/hoomd-workshop-md/blob/trunk/02-Introducing-Bonds.ipynb)
       * [Introducing binary mixtures](https://colab.research.google.com/github/astatt/hoomd-workshop-md/blob/trunk/02-Binary-Mixtures.ipynb)
+      * [Cooling a system](https://colab.research.google.com/github/astatt/hoomd-workshop-md/blob/trunk/04-Cooling-System.ipynb)
+      * (Previous session:) [Introducing HOOMD-blue](https://colab.research.google.com/github/astatt/hoomd-workshop-md/blob/trunk/00-Introducing-HOOMD-blue.ipynb)
     * You can save your modified notebooks to your Google Drive.
 * Binder:
   * [Follow this link to start JupyterLab on
