@@ -15,7 +15,8 @@ platform on:
     * You can save your modified notebooks to your Google Drive.
 * Binder:
   * [Follow this link to start JupyterLab on
-    Binder](https://mybinder.org/v2/gh/glotzerlab/hoomd-workshop/HEAD)
+    Binder](https://mybinder.org/v2/gh/astatt/hoomd-workshop-md/trunk/HEAD)
+  * [Introducing molecular dynamics](https://mybinder.org/v2/gh/astatt/hoomd-workshop-md/trunk?labpath=01-Molecular-dynamics-with-HOOMD-blue.ipynb)
   * Double-click on a notebook in the left panel to open it.
   * You can save your modified notebooks locally.
 
